@@ -7,17 +7,11 @@ h1 {
     text-decoration: underline;
     align-items: center;
     padding-top: 40px;
-    
-}
-style-selector {
-   background-image: url('perubeaches.jpg');
-   background-color: #f0f0f0;
 }
 
 body {
-    
-    
-    color: #404040;
+    background-color: #f0f0f0;
+    font: #404040;
     font-size: 11pt;
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
