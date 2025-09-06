@@ -1,0 +1,51 @@
+h1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 22pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    align-items: center;
+    padding-top: 40px;
+    
+}
+style-selector {
+   background-image: url('perubeaches.jpg');
+   background-color: #f0f0f0;
+}
+
+body {
+    
+    
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2, h3, h4 {
+    font-size: 18pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    align-items: left;
+}
+
+ a {
+    font-size: 18pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #A4A400;
+    padding-bottom: 40px;
+ }
+ blockquote {
+    background-color: #FFFFA8;
+    font-size: 18pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+ }
+    
